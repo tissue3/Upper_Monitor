@@ -1,0 +1,22 @@
+#Upper monitor for a quad rotor
+
+#usage
+ run 'serial.exe' in ./serial.sketch2/release
+
+#functions
+ 3D display for a quad rotor
+ real-time display for angles and speed
+ curve display
+ write to disk for received data
+ send message to quad rotor
+
+#dependencies
+ Qt 5.7
+ OpenGL 3.0
+
+#protocol
+ ./serial_sketch2/protocol.txt
+
+#tests
+ virtual serial port - ./UartAssist.exe
+

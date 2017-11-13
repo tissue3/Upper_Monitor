@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Quadobj.obj</file>
+        <file>Test.obj</file>
+    </qresource>
+</RCC>
